@@ -3,7 +3,7 @@
 
 ## About Me  
 🌸 Hi, I’m **Ana** — a Data Scientist with **12 years of experience in Supply Chain & Operations** and **2+ years in advanced analytics**.  
-I hold an **MSc in Big Data & Data Science** and I’m passionate about transforming complex data into clear, actionable insights. I speak fluent English but the do gossip better in Spanish. 
+I hold an **MSc in Big Data & Data Science** and I’m passionate about transforming complex data into clear, actionable insights. I speak fluent English but do gossip better in Spanish. 
 
 I bring a unique mix of **business expertise + technical skills**, bridging the gap between data engineering and decision-making to deliver high-impact solutions.  
 
