@@ -32,7 +32,6 @@ I bring a unique mix of **business expertise + technical skills**, bridging the 
 
 ## 🌍 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anaberbesi/)  
-- 📧 anakarinasanchezb@gmail.com  
 - 📊 Check out my projects here on GitHub — showcasing SQL, Python, and data visualization case studies.  
 
 ---
