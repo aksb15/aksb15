@@ -1,10 +1,9 @@
-# 👩‍💻 Ana Karina Sánchez Berbesi  
-
-![Header](https://cdn.abacus.ai/images/c00675e1-51f0-456e-9ae5-9a2357184b8f.png)
+# 👩‍💻 A quick intro
+![Header](https://cdn.abacus.ai/images/075b3e63-a0f1-4859-a7c7-8eedc062a8d8.png)
 
 ## About Me  
-🌸 Hi, I’m **Ana Karina** — a Data Analyst with **12 years of experience in Supply Chain & Operations** and **2+ years in advanced analytics**.  
-I hold an **MSc in Big Data & Data Science** and I’m passionate about transforming complex data into clear, actionable insights.  
+🌸 Hi, I’m **Ana** — a Data Scientist with **12 years of experience in Supply Chain & Operations** and **2+ years in advanced analytics**.  
+I hold an **MSc in Big Data & Data Science** and I’m passionate about transforming complex data into clear, actionable insights. I speak fluent English but the do gossip better in Spanish. 
 
 I bring a unique mix of **business expertise + technical skills**, bridging the gap between data engineering and decision-making to deliver high-impact solutions.  
 
@@ -30,10 +29,15 @@ I bring a unique mix of **business expertise + technical skills**, bridging the 
 
 ---
 
+## 🥇 Fun fact
+- What started as a late-20s crisis led me into triathlon for a few years. These days, I enjoy the three sports separately. The discipline stuck—I’m still an early riser who loves being first.
+---
+
 ## 🌍 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anaberbesi/)  
 - 📊 Check out my projects here on GitHub — showcasing SQL, Python, and data visualization case studies.  
 
 ---
+
 
 ✨ *I’m currently seeking opportunities as a **Data Analyst / Data Scientist** where I can bring my passion for analytics, supply chain expertise, and technical skills to create meaningful impact.*
