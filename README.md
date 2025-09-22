@@ -7,6 +7,7 @@ I hold an **MSc in Big Data & Data Science** and I’m passionate about transfor
 
 I bring a unique mix of **business expertise + technical skills**, bridging the gap between data engineering and decision-making to deliver high-impact solutions.  
 
+As most of my prior work is confidential, this portfolio is a work in progress. I’m building new examples using public datasets to demonstrate my skills while continuing to expand my project showcase. 
 ---
 
 ## 🔧 Skills & Tools  
